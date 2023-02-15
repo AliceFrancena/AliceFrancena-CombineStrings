@@ -10,5 +10,9 @@ public class Lab {
      */
     public String combine(String a, String b){
         return "";
+        String bigst = str1 + str2.class InnerLab {
+        
+            
+        }
     }
 }
